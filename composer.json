@@ -1,0 +1,11 @@
+{
+  "name": "afrihost/snitch",
+  "description": "Simple wrapper for the Monolog logger to take a key/value pair array as input and logging it in a desireable format",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sarel van der Walt"
+    }
+  ]
+}
